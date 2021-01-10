@@ -3,7 +3,7 @@ const fs = require('fs')
 const express = require("express")
 const axios = require("axios").default
 const jsdom = require("jsdom")
-const cors = require('cros')
+const cors = require('cors')
 
 const { JSDOM } = jsdom
 
